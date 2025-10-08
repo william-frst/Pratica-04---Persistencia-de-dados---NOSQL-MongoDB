@@ -1,0 +1,7 @@
+br/com/empresa/vendamais/repository/ProdutoRepository.class
+br/com/empresa/App.class
+br/com/empresa/vendamais/entity/Produto.class
+br/com/empresa/vendamais/controller/GlobalExceptionHandler.class
+br/com/empresa/vendamais/service/ProdutoService.class
+br/com/empresa/vendamais/controller/ProdutoController.class
+br/com/empresa/vendamais/VendamaisApplication.class
